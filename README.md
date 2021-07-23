@@ -1,3 +1,6 @@
+![stripeLanding](https://user-images.githubusercontent.com/68208476/126829595-8800ea1e-648c-4495-a8e3-aaf74967622a.png)
+
+
 # Office Hours Starter
 
 An [Express server](http://expressjs.com) implementation
