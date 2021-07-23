@@ -1,3 +1,4 @@
+![Safari (Big Sur) - Dark](https://user-images.githubusercontent.com/68208476/126826139-ff8921d6-0e5d-4207-99f6-d63028c34683.png)
 
 
 # stripe-node-checkout
